@@ -40,6 +40,7 @@ justifyContent:"space-evenly",
           token ? (
             <>
               <NavLink to='/notes'>
+                
                 <li>Notes</li>
               </NavLink>
               <NavLink to="/login" onClick={() => { logout(); }}>
