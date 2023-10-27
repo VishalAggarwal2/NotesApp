@@ -1,0 +1,17 @@
+.login{
+    width: 50%;
+    margin: auto;
+}
+.notes{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+    justify-content: space-evenly;
+
+}
+body{
+background-color: black;
+}

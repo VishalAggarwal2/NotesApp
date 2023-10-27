@@ -1,0 +1,16 @@
+.flex{
+    display: flex;
+}
+.row{
+    flex-direction: row;
+}
+.colum{
+    flex-direction: column;
+}
+
+.nav_ul{
+    gap: 20px   
+}
+li{
+    list-style: none;
+}
